@@ -7,9 +7,9 @@ A deep neural network learns patterns to hypothesize a large subset of samples t
 
 ### Prerequisites 
 
-> Python 3.6+ 
-  Pytorch 1.0+
-  Tensorboard for Pytorch 
+* Python 3.6+
+* Pytorch 1.0+
+* Tensorboard for Pytorch 
 
 
 ### Sample command to run code and set flags  
