@@ -6,6 +6,8 @@ This is the code repository for work done during my internship at GREYC laborato
 
 A deep neural network learns patterns to hypothesize a large subset of samples that lie in-distribution and it memorises any out-of-distribution samples. While fitting to noise, the generalisation error increases and the DNN performs poorly on test set. In this work, we aim to construct a network that combines the strengths of both memorisation and generalisation in a single neural network. While the initial layers that are common to all examples tend to learn general patterns, we relegate certain deeper additional layers in the network to memorise the out-of-distribution examples. The proposed model uses a soft gating mechanism to decide on the fly if an input will skip the additional layers or pass through them based on its hardness measure. An entropy based metric is used to assign hardness to each example.
 
+![Network architecture for model Containing Entropy Gate with Classifier. This illustration applies the gate on ResNet 110 for Cifar 10][Model4_new.png]
+
 #### Note: 
 We tried multiple soft gating mechanisms and loss functions to achieve better generalization in CNNs. This repository contains only the code for the proposed model in Figure 1 that surpassed the baselines. Code for all models we tried and all gating mechanisms that fail to work can be found in the repository GREYC-Internship (https://github.com/prachigarg23/GREYC-Internship). 
 
