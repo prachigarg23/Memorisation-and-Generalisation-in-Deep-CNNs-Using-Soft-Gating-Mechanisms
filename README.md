@@ -9,8 +9,7 @@ A deep neural network learns patterns to hypothesize a large subset of samples t
 <img width="1248" alt="Model4_new" src="https://user-images.githubusercontent.com/24666845/131313083-517b0d2c-7f34-437c-9c02-d2035d4f1fac.png">
 <!-- ![Network architecture for model Containing Entropy Gate with Classifier. This illustration applies the gate on ResNet 110 for Cifar 10][Model4_new.png] -->
 
-#### Note: 
-We tried multiple soft gating mechanisms and loss functions to achieve better generalization in CNNs. This repository contains only the code for the proposed model that surpassed the baselines. Code for all models we tried and all gating mechanisms that fail to work can be found in the repository GREYC-Internship (https://github.com/prachigarg23/GREYC-Internship). 
+****Note****: We tried multiple soft gating mechanisms and loss functions to achieve better generalization in CNNs. This repository contains only the code for the proposed model that surpassed the baselines. Code for all models we tried and all gating mechanisms that fail to work can be found in the repository GREYC-Internship (https://github.com/prachigarg23/GREYC-Internship). 
 
 ### Prerequisites 
 
