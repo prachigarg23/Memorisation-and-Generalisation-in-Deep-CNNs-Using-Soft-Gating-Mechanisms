@@ -1,5 +1,5 @@
 # Memorisation-and-Generalisation-in-Deep-CNNs-Using-Soft-Gating-Mechanisms
-Simplified version of the repository GREYC-Internship, contains only the code for the model that surpassed baseline and also contains code to qualitatively prove the hypothesis.
+Simplified version of the repository GREYC-Internship (https://github.com/prachigarg23/GREYC-Internship), contains only the code for the model that surpassed baseline and also contains code to qualitatively prove the hypothesis.
 
 ### Project Overview 
 
