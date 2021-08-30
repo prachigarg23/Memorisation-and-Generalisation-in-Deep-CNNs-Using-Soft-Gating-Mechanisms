@@ -1,6 +1,6 @@
 # Memorisation-and-Generalisation-in-Deep-CNNs-Using-Soft-Gating-Mechanisms
 
-This is the code repository for work done during my internship at GREYC laboratory, CNRS from June - August, 2019 under the mentorship of Prof. Frederic Jurie, Prof. Alexis Lechervy and Shivang Aggarwal. The repository contains code implementation of our proposed gating mechanism on ResNets for Cifar 10 and Cifar 100 datasets.
+This is the code repository for work done during my internship at GREYC laboratory, CNRS from June - August, 2019 under the mentorship of Prof. Frederic Jurie, Prof. Alexis Lechervy and Shivang Aggarwal. The repository contains implementation of our proposed gating mechanism on ResNets for Cifar 10 and Cifar 100 datasets.
 
 ### Project Overview 
 
